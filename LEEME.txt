@@ -1,0 +1,1 @@
+Publicar index.html, portadas/ y pdf/ conservando la estructura. GitHub Pages: Settings > Pages > main / root. No publicar libros ni material de cátedra sin autorización; Pages público no restringe el acceso a estudiantes. El libro de Puiggrós supera 25 MB: subir mediante Git local, no la interfaz web, o reemplazar el PDF por enlace autorizado en Moodle.
